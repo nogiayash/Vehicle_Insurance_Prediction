@@ -44,9 +44,8 @@ Insurance companies need to identify customers likely to purchase vehicle insura
 
 ## 🏗️ Architecture
 
-```
-MongoDB → Ingestion → Validation → Transformation → Training → Evaluation → S3 → Deployment → App → User
-```
+<img width="1774" height="887" alt="Vehicle Insurance Architecture" src="https://github.com/user-attachments/assets/f4dbe6e5-0d17-4b31-b0d2-0a77bc1ba2d1" />
+
 
 ---
 
